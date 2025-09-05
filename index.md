@@ -13,10 +13,13 @@ Syntax highlighted code block
 
 #Aman's First CS193 Homework
 
-- I like how this class is simple
-- I like how CS 193 is helping me prepare for CS 240 and beyond
+Hi, my name is Aman and I am an aspiring Cybersecurity Analyst and Data Analytics major. I am a freshman and am currently a member of the data mine. I love anything Formula 1, soccer, and NFl related. At Purdue, I want to continue to study CS (main major), while minoring in something that is data-related.
 
-[Link](url) and ![Image](src)
+- I like how CS193 is simple
+- I like how CS193 is helping me prepare for CS 240 and beyond
+
+LinkedIn - www.linkedin.com/in/amanpatel29
+GitHub - github.com/ampatel1229
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
